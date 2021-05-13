@@ -1,0 +1,4 @@
+Network,Number of Nodes,Number of Edges,Number of weakly connected components,Size of largest weakly connected component,Average Path Length,Average Clustering Coeffcient,Degree Assortavity ,Diameter
+Twitter,98292,212314,3851,80074,2.612595901,0.07628559864,-0.08113703143,18
+Twitter-Ego,429,11416,,,2.505562978,0.2843095622,-0.144972477,8
+EU Email,1005,25570,20,986,2.652825679,0.3727029039,0.004334607454,7
